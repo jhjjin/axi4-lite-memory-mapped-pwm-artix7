@@ -58,10 +58,10 @@ All AXI read/write tests pass.
 ## Simulation Results
 
 ### AXI Write Handshake
-![AXI Write](sim_results/axi_write_waveform.png)
+![AXI Write](sim_results/axi_write_transaction_1.png)
 
 ### AXI Read Handshake
-![AXI Read](sim_results/axi_read_waveform.png)
+![AXI Read](sim_results/axi_read_transaction_1.png)
 
 ---
 
@@ -72,14 +72,14 @@ All AXI read/write tests pass.
 - Registers: 205
 - BUFG: 1
 
-![Utilization](reports/synthesis_utilization.png)
+![Utilization](reports/synthesis_Utilization.png)
 
 ### Timing Summary (100 MHz Constraint)
 - Clock constraint: 10 ns
 - Post-Implementation WNS: +2.729 ns
 - All timing constraints met
 
-![Timing](reports/implementation_timing.png)
+![Timing](reports/Implementation_Timing_Summary.png)
 
 ---
 
