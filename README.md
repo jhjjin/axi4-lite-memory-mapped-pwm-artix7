@@ -10,7 +10,7 @@ Target Device: Xilinx Artix-7 (xc7a100t)
 
 ## Architecture
 
-AXI Slave FSM → Register Block → PWM Core → pwm_out
+AXI Slave FSM → Memory-Mapped Register Block → Counter-Based PWM Core → pwm_out
 
 ### AXI4-Lite Slave
 - FSM-based implementation
