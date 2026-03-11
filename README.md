@@ -72,7 +72,7 @@ All AXI read/write tests pass.
 - Registers: 205
 - BUFG: 1
 
-![Utilization](reports/synthesis_Utilization.png)
+![Utilization](reports/Synthesis_Utilization.png)
 
 ### Timing Summary (100 MHz Constraint)
 - Clock constraint: 10 ns
